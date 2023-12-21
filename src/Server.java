@@ -1,4 +1,3 @@
-package com.example.siyamassignent;
 
 import java.io.IOException;
 import java.net.ServerSocket;

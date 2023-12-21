@@ -1,4 +1,4 @@
-package com.example.siyamassignent;
+
 
 import java.io.*;
 import java.net.Socket;
